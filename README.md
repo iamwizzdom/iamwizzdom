@@ -1,4 +1,4 @@
-### Hey there 👋!
+### Hey there! 👋
 
 My name is Wisdom. I am a full-stack software engineer. At the time I still had a life, I wrote lots of Vanilla JavaScript. But these days I specialize in API Development using PHP and sometimes JavaScript (Node.js). However, I also develop mobile software applications using Java or still "JavaScript" (React Native).
 
