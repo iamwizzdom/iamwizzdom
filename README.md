@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Wisdom and I am a full-stack software engineer.
+My name is Wisdom, I am a full-stack software engineer.
 
 ### What I Do 👨‍💻
 
