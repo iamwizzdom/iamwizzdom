@@ -4,7 +4,7 @@ I'm Wisdom, a Sr Software Engineer.
 
 ### What I Do 👨‍💻
 
-Some years ago when I still had a life, I wrote lots of Vanilla JavaScript. But these days I specialize more in API Development using PHP and sometimes JavaScript (Node.js). However, I still work with frontend tools such as React.js, and for the sake of being versatile, I also develop mobile applications using Java or still "JavaScript" (React Native).
+These days I find myself doing more of API Development using PHP and sometimes JavaScript (Node.js). However, I still work with frontend tools such as React.js, and for the sake of being versatile, I also develop mobile applications using Java or still "JavaScript" (React Native).
 
 To find out more about me, check out my portfolio at https://portfolio.wizdom.dev #StayAwesome 🙂
 
