@@ -4,7 +4,7 @@ My name is Wisdom, I am a full-stack software engineer.
 
 ### What I Do 👨‍💻
 
-At the time I still had a life, I wrote lots of Vanilla JavaScript. But these days I specialize in API Development using PHP and sometimes JavaScript (Node.js). However, I also develop mobile applications using Java or still "JavaScript" (React Native).
+At the time I still had a life, I wrote lots of Vanilla JavaScript. But these days I specialize in API Development using PHP and sometimes JavaScript (Node.js). However, I still work with frontend tools such as React.js, and for the sake of being versatile, I also develop mobile applications using Java or still "JavaScript" (React Native).
 
 To find out more about me, check out my portfolio https://portfolio.wizdom.dev #StayAwesome 🙂
 
