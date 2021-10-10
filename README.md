@@ -1,8 +1,8 @@
-[![Github](https://img.shields.io/github/followers/iamwizzdom?label=Follow&style=social)](https://github.com/iamwizzdom)
-
 ### Hey there! 👋
 
 My name is Wisdom and I am a full-stack software engineer.
+
+### What I Do 👨‍💻
 
 At the time I still had a life, I wrote lots of Vanilla JavaScript. But these days I specialize in API Development using PHP and sometimes JavaScript (Node.js). However, I also develop mobile applications using Java or still "JavaScript" (React Native).
 
